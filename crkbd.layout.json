@@ -12,7 +12,7 @@
         "KC_ENT","KC_P","KC_O","KC_I","KC_U","KC_Y",
         "MT(MOD_LALT | MOD_RALT,KC_QUOT)","KC_SCLN","KC_L","KC_K","KC_J","KC_H",
         "KC_RSFT","KC_SLSH","KC_DOT","KC_COMM","KC_M","KC_N",
-        "KC_NO","KC_NO","KC_NO","FN_MO23","KC_SPC","KC_RGUI"
+        "KC_NO","KC_NO","KC_NO","FN_MO23","KC_SPC","KC_APP"
       ],
       [
         "KC_NO","KC_EXLM","KC_BSPC","KC_UP","KC_DEL","KC_NO",

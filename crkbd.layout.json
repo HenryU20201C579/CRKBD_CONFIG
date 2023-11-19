@@ -23,7 +23,7 @@
         "A(KC_ENT)","KC_MINS","KC_9","KC_8","KC_7","KC_NO",
         "KC_LALT","KC_PPLS","KC_6","KC_5","KC_4","KC_PAST",
         "KC_RSFT","KC_BSLS","KC_3","KC_2","KC_1","KC_EQL",
-        "KC_NO","KC_NO","KC_NO","FN_MO23","KC_P0","KC_LGUI"
+        "KC_NO","KC_NO","KC_NO","FN_MO23","KC_0","KC_LGUI"
       ],
       [
         "A(ALGR(KC_TAB))","KC_AT","KC_HASH","A(ALGR(KC_E))","KC_PIPE","KC_PERC",
